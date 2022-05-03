@@ -1,3 +1,4 @@
+# Generic Dictionary
 <p>In this project you have to create Map-like data structure - Dictionary.
 In general it is a good practice to provide several implementations of such
 data structures as different problems have different requirements. For example,
